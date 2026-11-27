@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.kanboard.env
+dev-paths.ps1
